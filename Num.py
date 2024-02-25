@@ -1,5 +1,6 @@
 """
 Take Input From User and Pass It To Function to Calculate Square
+Author : Sandeep Patil
 """
 
 def cal_sqr(num):
