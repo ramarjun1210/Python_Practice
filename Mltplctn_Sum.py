@@ -15,8 +15,10 @@ num1 = int(input("Enter Num1 = "))
 num2 = int(input('Enter Num2 = '))
 
 if (num1 * num2 <= 1000):
+    print("Inside If Condition !!!")
     result= mltplctn(num1,num2)
 else:
+    print("Inside Else Condition !!!")
     result = sum_num(num1,num2)
 
 print(f'Result = {result}')
